@@ -14,7 +14,8 @@ cabe a você pesquisar meu perfil nas redes e descobrir o que Natty or Not.
 Algumas das tecnologias que usei para me auxiliar:
 - Copilot da Microsoft;
 - ElevenLabs para gerar o audio;
-- D-ID para gerar o avatar que recebeu o audio do ElevenLabs.  
+- D-ID para gerar o avatar que recebeu o audio do ElevenLabs.
+- CapCut para juntar tudo e comprimir.    
 
 ## 🧐 Processo de Criação
 Então, vamos lá! Para começar a colocar a mão na massa eu elaborei um prompt bem detalhado para o Copilot com
