@@ -23,10 +23,10 @@ Após alguns ajustes, para gerar algumas informações que podem ser verdadeiras
 o ElevenLabs para gerar o áudio da narração.
 Após ajustes de voz e compasso, áudio pronto!
 E segui para o D-ID, no qual eu já havia configurado um avatar enquanto gerava o Audio no ElevenLabs.
-Avatar, ok. Audio, ok. Bora juntar tudo!
+Avatar, ok. Audio, ok. Bora juntar tudo! Para isso eu usei o CapCut e para comprimir o arquivo e poder trazer aqui para o GitHub. Confira!
 
 ## 🚀 Resultados
-O resultado você pode conferir em .../assets/video.mp4 e visitar minhas redes sociais para descobrir o que Natty ou Fake Natty!  
+O resultado você pode conferir em assets/video.mov e visitar minhas redes sociais para descobrir o que Natty ou Fake Natty!  
 Acesse aqui meu LinkedIn: https://www.linkedin.com/in/filipesdalpiaz/
 
 ## 💭 Reflexão (Opcional)
