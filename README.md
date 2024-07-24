@@ -1,48 +1,38 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
+# Natty or Not?!
+<div>
+Olá pessoal, Filipe aqui com mais um projeto de IA, mas dessa vez com mais autonomia para escolher as tecnologias e soltar a criatividade.
+</div>
+  
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Apresentação Pessoal Natty or Not? 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Seguindo a vibe da brincadeira Natty or Not, eu fiz uma apresentação pessoal do meu currículo or not, com algumas das minhas formações or not,
+cabe a você pesquisar meu perfil nas redes e descobrir o que Natty or Not. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Algumas das tecnologias que usei para me auxiliar:
+- Copilot da Microsoft;
+- ElevenLabs para gerar o audio;
+- D-ID para gerar o avatar que recebeu o audio do ElevenLabs.  
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Então, vamos lá! Para começar a colocar a mão na massa eu elaborei um prompt bem detalhado para o Copilot com
+informações minhas de um currículo e solicitei que ele criasse um roteiro de apresentação pessoal.
+Após alguns ajustes, para gerar algumas informações que podem ser verdadeiras ou não, eu levei o roteiro até
+o ElevenLabs para gerar o áudio da narração.
+Após ajustes de voz e compasso, áudio pronto!
+E segui para o D-ID, no qual eu já havia configurado um avatar enquanto gerava o Audio no ElevenLabs.
+Avatar, ok. Audio, ok. Bora juntar tudo!
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado você pode conferir em .../assets/video.mp4 e visitar minhas redes sociais para descobrir o que Natty ou Fake Natty!  
+Acesse aqui meu LinkedIn: https://www.linkedin.com/in/filipesdalpiaz/
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Acho que todos deveriam estabelecer uma conexão mais profunda com esse mundo das IAs,  além de ser muito interessante tudo que é possível fazer,
+é uma janela para um novo mundo que se abre e que está esperando por quem se interessa.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
